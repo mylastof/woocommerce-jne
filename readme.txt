@@ -1,4 +1,4 @@
-=== WOocommerce JNE ===
+=== Woocommerce JNE ===
 Contributors: agenwebsite
 Donate link: http://agenwebsite.com
 Tags: shipping, jne
