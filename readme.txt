@@ -1,11 +1,10 @@
 === WooCommerce JNE Shipping ===
 Contributors: agenwebsite
-Donate link: http://agenwebsite.com
-Tags: shipping, jne
+Donate link: http://www.agenwebsite.com/products/woocommerce-jne-shipping
+Tags: shipping, jne, woothemes, ecommerce, commerce, store, shop, sell, woocommerce, online store, cart, checkout, shopping, indonesia, tiki
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.3
-License: GPLv2 or later
+License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 WooCommerce JNE Shipping adalah Plugin khusus WooCommerce yang digunakan untuk mengintegrasikan ongkos kirim dengan total belanja calon konsumen Anda.
