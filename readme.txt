@@ -1,4 +1,4 @@
-=== Woocommerce JNE ===
+=== WooCommerce JNE Shipping ===
 Contributors: agenwebsite
 Donate link: http://agenwebsite.com
 Tags: shipping, jne
@@ -8,19 +8,19 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Woocommerce JNE adalah Plugin khusus Woocommerce yang digunakan untuk mengintegrasikan ongkos kirim dengan total belanja calon konsumen Anda.
+WooCommerce JNE Shipping adalah Plugin khusus WooCommerce yang digunakan untuk mengintegrasikan ongkos kirim dengan total belanja calon konsumen Anda.
 
 == Description ==
 
-Woocommerce JNE Shipping mengintegrasikan ongkos pengiriman dengan total belanja konsumen Anda pada saat checkout.
+WooCommerce JNE Shipping mengintegrasikan ongkos pengiriman dengan total belanja konsumen Anda pada saat checkout.
 Dengan beragam fitur yang ditawarkan, plugin ini sungguh powerful dan menjadikan plugin ini wajib digunakan ke semua toko online yang menggunakan wordpress.
 
-= Woocommerce JNE Free Version =
+= WooCommerce JNE Free Version =
 
 * Ongkos kirim JNE Regular
 * Data kota JNE Jakarta ke Seluruh Indonesia
 
-= Woocommerce JNE Full Version =
+= WooCommerce JNE Full Version =
 
 * Ongkir kirim JNE Oke, Reg dan YES
 * Data kota JNE dari basis kota pengiriman Anda ke Seluruh Indonesia
@@ -30,7 +30,7 @@ Dengan beragam fitur yang ditawarkan, plugin ini sungguh powerful dan menjadikan
 * Fitur Kalkulasi Ongkir di Halaman Cart
 * Gratis update dan Bantuan Support
 
-= Woocommerce Exclusive Version =
+= WooCommerce Exclusive Version =
 
 * Ongkir kirim JNE Oke, Reg dan YES
 * Data kota JNE dari basis kota pengiriman Anda ke Seluruh Indonesia
@@ -47,13 +47,13 @@ Follow AgenWebsite on [Facebook](https://www.facebook.com/AgenWebsiteID "Faceboo
 
 == Installation ==
 
-Dibawah ini adalah 3 cara mudah untuk melakukan instalasi pada plugin Woocommerce JNE
+Dibawah ini adalah 3 cara mudah untuk melakukan instalasi pada plugin WooCommerce JNE
 
 1. Untuk menginstal plugin caranya cukup mudah. Apabila Anda ingin mengupload langsung menggunakan file zip. Melalui wordpress pada menu Plugins > Add New > Upload Plugin
-2. Lalu siapkan file data kota dgn format CSV yang akan Anda upload ke Woocommerce JNE Anda.
+2. Lalu siapkan file data kota dgn format CSV yang akan Anda upload ke WooCommerce JNE Anda.
 3. Anda sudah bisa menggunakan plugin ini, serta dapat mengkonfigurasi plugin sesuai dengan keinginan Anda.
 
-Kami menyediakan [dokumentasi](http://docs.agenwebsite.com/?url=WooCommerce%20JNE%20Shipping "Dokumentasi Woocommerce JNE Shipping") untuk Anda apabila mengalami kesulitan dalam menginstall atau mengupdate plugin Woocommerce JNE. Bila masih mengalami kesulitan kami bersedia membantu Anda melalui [Ticket Support](http://www.agenwebsite.com/ticket "Support Ticket AgenWebsite").
+Kami menyediakan [dokumentasi](http://docs.agenwebsite.com/?url=WooCommerce%20JNE%20Shipping "Dokumentasi WooCommerce JNE Shipping") untuk Anda apabila mengalami kesulitan dalam menginstall atau mengupdate plugin WooCommerce JNE. Bila masih mengalami kesulitan kami bersedia membantu Anda melalui [Ticket Support](http://www.agenwebsite.com/ticket "Support Ticket AgenWebsite").
 
 Jika mengupdate plugin, harap menghapus plugin lama. Kemudian menginstall yang baru.
 
@@ -86,11 +86,11 @@ Dan juga ikuti aktivitas sosial media kami di [Facebook](https://www.facebook.co
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
-4. screenshot-4.png
-5. screenshot-5.png
+1. Plugin Page
+2. Admin Page
+3. City Field
+4. Shopping Cart
+5. Checkout Page 
 
 == Changelog ==
 
